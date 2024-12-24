@@ -176,7 +176,7 @@ const testimonials = [
     name: "Purvesh Jambhulkar",
     designation: "student",
     company: "DYP, Akurdi",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    image: "https://randomuser.me/api/portraits/men/39.jpg",
   },
   {
     testimonial:
@@ -184,7 +184,7 @@ const testimonials = [
     name: "Piyush Mogre",
     designation: "Vice President",
     company: "ITESA, DYPCOE",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    image: "https://randomuser.me/api/portraits/men/38.jpg",
   },
   {
     testimonial:
