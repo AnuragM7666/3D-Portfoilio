@@ -114,7 +114,6 @@ const technologies = [
   },
 ];
 
-
 const testimonials = [
   {
     testimonial:
@@ -208,4 +207,4 @@ const projects = [
   },
 ];
 
-export { services, technologies, /*experiences*/ testimonials, projects };
+export { services, technologies,  testimonials, projects }; //experiences
