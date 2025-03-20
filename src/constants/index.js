@@ -117,7 +117,7 @@ const technologies = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Anurag proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our project, but Anurag proved me wrong.",
     name: "Purvesh Jambhulkar",
     designation: "student",
     company: "DYP, Akurdi",
